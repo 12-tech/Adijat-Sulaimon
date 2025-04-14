@@ -21,7 +21,7 @@
     { "name": "ML" },
     { "name": "HW/SW Codesign" }
   ],
-  "skills": [
+  "technical skills": [
     {
       "name": "Programming Languages",
       "keywords": ["C", "C++", "Python", "Java"]
