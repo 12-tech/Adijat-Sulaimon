@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "44803", "city": "Bochum", "countryCode": "Germany", "region": "NRW" },
     "profiles": [
       { "network": "github", "username": "12-tech", "url": "http://github.com/12-tech" },
-      { "network": "linkedin", "username": "adijat01", "url": "http://linkedin.com/in/adijat01" },
+      { "network": "linkedin", "username": "adijat01", "url": "http://linkedin.com/in/adijat01" }
     ]
   },
   "interests": [
@@ -18,7 +18,7 @@
     { "name": "Robotics" },
     { "name": "IoT" },
     { "name": "Real-time Systems" },
-    { "name": "ML" }
+    { "name": "ML" },
     { "name": "HW/SW Codesign" }
   ],
   "skills": [
