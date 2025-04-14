@@ -55,22 +55,23 @@
       "courses": [
       ]
     }
-  ],
+   ]
+},
+"work": [
   {
-  "work": [
-    {
-      "company": "Hamm-Lippstadt University of Applied Sciences",
-      "position": "Research Assistant (Embedded Systems)",
-      "startDate": "2021-04",
-      "endDate": "2022-08",
-      "summary": "Contributed to research and development of embedded systems for smart infrastructure and automation projects",
-      "highlights": [
-        "Designed smart city traffic management system using SUMO, OMNeT++ and C++",
-        "Developed V2I communication system for autonomous intersections using FreeRTOS and Uppaal",
-        "Built IoT-based home automation system with Raspberry Pi and MQTT protocol",
-        "Authored technical documentation to standardize development processes"
-      ]
-    },
+    "company": "Hamm-Lippstadt University of Applied Sciences",
+    "position": "Research Assistant (Embedded Systems)",
+    "startDate": "2021-04",
+    "endDate": "2022-08",
+    "summary": "Contributed to research and development of embedded systems for smart infrastructure and automation projects",
+    "highlights": [
+      "Designed smart city traffic management system using SUMO, OMNeT++ and C++",
+      "Developed V2I communication system for autonomous intersections using FreeRTOS and Uppaal",
+      "Built IoT-based home automation system with Raspberry Pi and MQTT protocol",
+      "Authored technical documentation to standardize development processes"
+    ]
+  },
+
     {
       "company": "Perfect-iD GmbH, Köln",
       "position": "Embedded Software Engineer",
