@@ -1,28 +1,62 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/smart-house/smart-house-square.png
+title: "Smart House: Energy Supply and Consumption Simulation"
+date: 2022
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Java
+  - Multithreading
+  - Energy Management
+  - Simulation
+summary: "A Java-based Smart House simulation designed to optimize energy supply and consumption using smart devices, renewable sources, and intelligent control systems."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/smart-house/smart-house-overview.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This project involved designing and implementing a Java-based simulation of a Smart House system that efficiently manages both energy supply and consumption in real-time. The system was built to reflect real-world scenarios, combining smart devices, renewable energy sources, and intelligent control logic.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+---
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+### Core Components:
 
-Here is some example code to illustrate Simple Schema use:
+- **Smart Device Simulation**  
+  Lights, TVs, switches, and heaters were modeled as controllable devices with real-time energy consumption behavior.
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+- **Energy Sources**  
+  Solar panels, battery storage, and grid electricity were simulated to provide dynamic energy availability based on supply conditions.
+
+- **Energy Management System**  
+  The central controller monitored supply and demand, distributing power intelligently across devices to optimize overall usage.
+
+- **User Interface**  
+  A console-based interface allowed users to control devices and monitor system status in real time.
+
+- **System Logging**  
+  All system actions and states were logged to both the console and external files for analysis and debugging.
+
+---
+
+### Key Features:
+
+✅ **Device Control**  
+Users could turn devices ON or OFF through the console interface while monitoring real-time energy consumption at both the device and system levels.
+
+✅ **Energy Management**  
+The system tracked battery levels, simulated solar energy generation, and dynamically allocated energy based on current demand and availability.
+
+✅ **Concurrency Support**  
+Java multithreading was leveraged to handle simultaneous device activity and background energy updates, creating a realistic and responsive simulation.
+
+✅ **Logging**  
+All actions, state changes, and energy flows were logged both to the console and to persistent log files, enabling transparency and traceability.
+
+✅ **Unit Testing**  
+Comprehensive unit tests were implemented to ensure stable operation, verify logic correctness, and handle exceptions robustly across all modules.
+
+---
+
+This project strengthened my skills in object-oriented design, multithreaded programming, simulation logic, and real-time system testing in Java.
+
+Source: <a href="https://github.com/12-tech/SmartHouseSimulation"><i class="large github icon"></i>12-tech/SmartHouseSimulation</a>
