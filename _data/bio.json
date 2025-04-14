@@ -22,20 +22,19 @@
     { "name": "HW/SW Codesign" }
   ],
   "skills": [
-  {
-    "name": "Programming Languages",
-    "keywords": ["C", "C++", "Python", "Java"]
-  },
-  {
-    "name": "Embedded Systems",
-    "keywords": ["ARM", "AVR", "RTOS", "SPI", "I2C", "UART", "TCP/IP", "MQTT", "Linux", "TCP/IP"]
-  },
-  {
-    "name": "Development Tools & Simulation",
-    "keywords": ["Visual Studio", "Git", "GitLab", "LTspice", "SolidWorks", "SUMO", "OMNeT++", "UML", "Uppaal", "Matlab"]
-  }
-],
-
+    {
+      "name": "Programming Languages",
+      "keywords": ["C", "C++", "Python", "Java"]
+    },
+    {
+      "name": "Embedded Systems",
+      "keywords": ["ARM", "AVR", "RTOS", "SPI", "I2C", "UART", "TCP/IP", "MQTT", "Linux", "TCP/IP"]
+    },
+    {
+      "name": "Development Tools & Simulation",
+      "keywords": ["Visual Studio", "Git", "GitLab", "LTspice", "SolidWorks", "SUMO", "OMNeT++", "UML", "Uppaal", "Matlab"]
+    }
+  ],
   "education": [
     {
       "institution": "Fachhochschule Dortmund, Germany",
@@ -43,8 +42,7 @@
       "studyType": "M.Eng.",
       "startDate": "2024-08",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "Hochschule Hamm-Lippstadt, Germany",
@@ -52,26 +50,23 @@
       "studyType": "B.Eng.",
       "startDate": "2019-08",
       "endDate": "2024-08",
-      "courses": [
-      ]
+      "courses": []
     }
-   ]
-},
-"work": [
-  {
-    "company": "Hamm-Lippstadt University of Applied Sciences",
-    "position": "Research Assistant (Embedded Systems)",
-    "startDate": "2021-04",
-    "endDate": "2022-08",
-    "summary": "Contributed to research and development of embedded systems for smart infrastructure and automation projects",
-    "highlights": [
-      "Designed smart city traffic management system using SUMO, OMNeT++ and C++",
-      "Developed V2I communication system for autonomous intersections using FreeRTOS and Uppaal",
-      "Built IoT-based home automation system with Raspberry Pi and MQTT protocol",
-      "Authored technical documentation to standardize development processes"
-    ]
-  },
-
+  ],
+  "work": [
+    {
+      "company": "Hamm-Lippstadt University of Applied Sciences",
+      "position": "Research Assistant (Embedded Systems)",
+      "startDate": "2021-04",
+      "endDate": "2022-08",
+      "summary": "Contributed to research and development of embedded systems for smart infrastructure and automation projects",
+      "highlights": [
+        "Designed smart city traffic management system using SUMO, OMNeT++ and C++",
+        "Developed V2I communication system for autonomous intersections using FreeRTOS and Uppaal",
+        "Built IoT-based home automation system with Raspberry Pi and MQTT protocol",
+        "Authored technical documentation to standardize development processes"
+      ]
+    },
     {
       "company": "Perfect-iD GmbH, Köln",
       "position": "Embedded Software Engineer",
@@ -97,8 +92,7 @@
         "Developed technical documentation for manufacturing procedures"
       ]
     }
-  ]
-
+  ],
   "references": [
     {
       "name": "Available upon request"
