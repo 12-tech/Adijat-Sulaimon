@@ -7,6 +7,7 @@ date: 2023
 published: true
 labels:
   - SolidWorks
+  - C
   - BFS Algorithm
   - Systems Engineering
   - 3D Printing
