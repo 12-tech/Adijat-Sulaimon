@@ -38,10 +38,19 @@
 
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Fachhochschule Dortmund, Germany",
+      "area": "Embedded Systems Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2024-08",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Fachhochschule Dortmund, Germany",
+      "area": "Embedded Systems Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2024-08",
       "endDate": "Present",
       "courses": [
       ]
