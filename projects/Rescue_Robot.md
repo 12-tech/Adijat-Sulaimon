@@ -2,7 +2,7 @@
 ---
 layout: project
 type: project
-image: img/rescue-robot/rescue-robot-square.png
+image: img/Rescue_Robot/Rescue_Robot.jpeg
 title: "Project X: Rescue Robot"
 date: 2023
 published: true
