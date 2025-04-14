@@ -28,18 +28,4 @@ I was specifically responsible for designing and implementing the communication 
 
 We simulated the system using Tinkercad, which allowed us to observe and refine the platoon’s behavior in dynamic traffic scenarios. The system was developed in C++, ensuring computational efficiency to meet the real-time processing requirements. The results showed the system’s ability to adapt to the environment in real time and maintain platoon stability, making it a viable solution for autonomous fleet management.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more at the [Truck_Platoon](https://github.com/ESE-Semester-Project-Team-1/ESE-Group-1.git).
