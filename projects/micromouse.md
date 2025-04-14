@@ -1,15 +1,17 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+image: img/truck_platoon/truck_platoon.jpg
+title: "Truck Platoon System"
+date: 2025
 published: true
 labels:
-  - Robotics
-  - Arduino
+  - Embedded Systems
   - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Distributed Systems
+  - Autonomous Vehicles
+summary: "My team developed a truck platoon system for autonomous vehicle coordination, focusing on real-time platoon reconfiguration and performance optimization."
+
 ---
 
 <div class="text-center p-4">
