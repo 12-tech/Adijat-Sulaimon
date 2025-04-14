@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Smart House/smarthome.png
+image: img/Smart House/smart.png
 title: "Smart House"
 date: 2022
 published: true
