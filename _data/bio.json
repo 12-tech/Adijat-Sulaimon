@@ -93,6 +93,21 @@
       ]
     }
   ],
+  "languages": [
+  {
+    "language": "Yoruba",
+    "fluency": "Mother tongue"
+  },
+  {
+    "language": "English",
+    "fluency": "Native speaker"
+  },
+  {
+    "language": "German",
+    "fluency": "B1 — Actively improving"
+  }
+]
+
   "references": [
     {
       "name": "Available upon request"
