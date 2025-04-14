@@ -13,7 +13,7 @@ labels:
 summary: "A Java-based Smart House simulation designed to optimize energy supply and consumption using smart devices, renewable sources, and intelligent control systems."
 ---
 
-<img class="img-fluid" src="../img/smart-house/smart-house-overview.png">
+<img class="img-fluid" src="../img/Smart House/smart.png">
 
 This project involved designing and implementing a Java-based simulation of a Smart House system that efficiently manages both energy supply and consumption in real-time. The system was built to reflect real-world scenarios, combining smart devices, renewable energy sources, and intelligent control logic.
 
