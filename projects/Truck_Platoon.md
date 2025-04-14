@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/Block Diagram.jpg
+image: img/Truck_Platoon/Block Diagram.jpg
 title: "Truck Platoon System"
 date: 2025
 published: true
