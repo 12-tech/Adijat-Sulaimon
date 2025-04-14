@@ -17,9 +17,9 @@ summary: "My team developed a truck platoon system for autonomous vehicle coordi
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="..img/Truck_Platoon/Screenshot 2025-02-04 at 23.45.15.png" class="img-thumbnail" >
-  <img width="200px" src="..img/Truck_Platoon/internal block diagram.jpg" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Truck_Platoon/Screenshot 2025-02-04 at 23.45.15.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Truck_Platoon/internal block diagram.jpg" >
+  <img width="200px" src="../img/Truck_Platoon/sequence.jpg" >
 </div>
 
 For this project, my team and I developed a truck platoon system aimed at improving autonomous vehicle coordination for modern logistics. The system used a distributed and parallel architecture, with a server-client model over TCP/IP to ensure reliable and efficient communication between the platoon vehicles, including leader trucks, follower trucks, and external vehicles such as cars. A key aspect of the project was enabling the platoon to dynamically adjust its formation when an external vehicle tried to pass between the trucks. This real-time platoon reconfiguration was managed through a robust communication protocol, which exchanged vital data regarding speed, distance, and formation changes.
