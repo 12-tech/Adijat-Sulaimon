@@ -56,73 +56,48 @@
       ]
     }
   ],
+  {
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Hamm-Lippstadt University of Applied Sciences",
+      "position": "Research Assistant (Embedded Systems)",
+      "startDate": "2021-04",
+      "endDate": "2022-08",
+      "summary": "Contributed to research and development of embedded systems for smart infrastructure and automation projects",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Designed smart city traffic management system using SUMO, OMNeT++ and C++",
+        "Developed V2I communication system for autonomous intersections using FreeRTOS and Uppaal",
+        "Built IoT-based home automation system with Raspberry Pi and MQTT protocol",
+        "Authored technical documentation to standardize development processes"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Perfect-iD GmbH, Köln",
+      "position": "Embedded Software Engineer",
+      "startDate": "2020-01",
+      "endDate": "2021-03",
+      "summary": "Developed firmware for IoT and embedded devices",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Optimized embedded device communication protocols, improving data flow consistency by 30%",
+        "Created UML diagrams for system architecture to enhance team collaboration",
+        "Reduced software iteration cycles by 20% through efficient C/C++ development",
+        "Conducted client training sessions to improve software adoption"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "RejiRoma Nigeria Ltd, Lagos",
+      "position": "Quality Control Engineer",
+      "startDate": "2017-09",
+      "endDate": "2019-12",
+      "summary": "Ensured product quality and process improvement",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Monitored ISO 9001:2015 compliance for quality management systems",
+        "Implemented QA/QC systems to optimize inspection processes",
+        "Developed technical documentation for manufacturing procedures"
       ]
     }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+  ]
+
   "references": [
     {
       "name": "Available upon request"
