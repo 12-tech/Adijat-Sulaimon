@@ -231,12 +231,13 @@ layout: home
     <div class="col-lg-9">
       <p class="m-0">
         {% for entry in site.data.bio.languages %}
-          <b>{{ entry.language }}:</b> {{ entry.fluency }}<br>
+          <b>{{ entry.language }}:</b> {{ entry.fluency }}{% if forloop.last != true %}, {% endif %}
         {% endfor %}
       </p>
     </div>
   </div>
 {% endif %}
+
 
 
     {% if site.data.bio.references %}
