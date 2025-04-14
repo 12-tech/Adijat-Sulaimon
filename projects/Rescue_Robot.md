@@ -14,6 +14,24 @@ labels:
 summary: "A rescue robot designed to operate on land and water, featuring a buoy system and window-breaking tool for real-world disaster scenarios."
 ---
 
+---
+layout: project
+type: project
+image: img/Truck_Platoon/Block Diagram.jpg
+title: "Truck Platoon System"
+date: 2025
+published: true
+labels:
+  - Rtos
+  - C++
+  - TCP/IP
+  - RMS Scheduling
+  - Server-Client Architecture
+  - SysML
+summary: "My team developed a truck platoon system for autonomous vehicle coordination, focusing on real-time platoon reconfiguration and performance optimization."
+
+---
+
 
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
