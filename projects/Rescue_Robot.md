@@ -28,4 +28,4 @@ For autonomous navigation, the robot used the Breadth-First Search (BFS) algorit
 This project gave me hands-on experience with embedded systems, object-oriented programming, and real-world design constraints in rescue robotics. I was responsible for the mechanical design using SolidWorks and actively contributed to the development and testing of the navigation algorithms.
 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Check out the whole project here: <a href="[(https://github.com/12-tech/Project_X)]"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
