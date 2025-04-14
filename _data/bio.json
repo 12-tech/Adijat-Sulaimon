@@ -21,7 +21,7 @@
     { "name": "ML" },
     { "name": "HW/SW Codesign" }
   ],
-  "technical skills": [
+  "skills": [
     {
       "name": "Programming Languages",
       "keywords": ["C", "C++", "Python", "Java"]
@@ -53,7 +53,7 @@
       "courses": []
     }
   ],
-  "work experience": [
+  "experience": [
     {
       "company": "Hamm-Lippstadt University of Applied Sciences",
       "position": "Research Assistant (Embedded Systems)",
