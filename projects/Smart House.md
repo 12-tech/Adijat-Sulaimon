@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/smart-house/smart-house-square.png
-title: "Smart House: Energy Supply and Consumption Simulation"
+title: "Smart House"
 date: 2022
 published: true
 labels:
