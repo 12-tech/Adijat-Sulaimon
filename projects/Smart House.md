@@ -59,4 +59,4 @@ Comprehensive unit tests were implemented to ensure stable operation, verify log
 
 This project strengthened my skills in object-oriented design, multithreaded programming, simulation logic, and real-time system testing in Java.
 
-Source: <a href="[https://github.com/Group-B-Java/Java_project]"><i class="large github icon"></i>12-tech/SmartHouseSimulation</a>
+Check out code here: <a href="[https://github.com/Group-B-Java/Java_project]"><i class="large github icon"></i>12-tech/SmartHouseSimulation</a>
