@@ -6,10 +6,12 @@ title: "Truck Platoon System"
 date: 2025
 published: true
 labels:
-  - Embedded Systems
+  - Rtos
   - C++
-  - Distributed Systems
-  - Autonomous Vehicles
+  - TCP/IP
+  - RMS Scheduling
+  - Server-Client Architecture
+  - SysML
 summary: "My team developed a truck platoon system for autonomous vehicle coordination, focusing on real-time platoon reconfiguration and performance optimization."
 
 ---
@@ -20,9 +22,11 @@ summary: "My team developed a truck platoon system for autonomous vehicle coordi
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+For this project, my team and I developed a truck platoon system aimed at improving autonomous vehicle coordination for modern logistics. The system used a distributed and parallel architecture, with a server-client model over TCP/IP to ensure reliable and efficient communication between the platoon vehicles, including leader trucks, follower trucks, and external vehicles such as cars. A key aspect of the project was enabling the platoon to dynamically adjust its formation when an external vehicle tried to pass between the trucks. This real-time platoon reconfiguration was managed through a robust communication protocol, which exchanged vital data regarding speed, distance, and formation changes.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+I was specifically responsible for designing and implementing the communication protocols (V2X and V2P) to ensure effective message-passing between platoon members and external vehicles. Additionally, I contributed to the system’s architecture, which was designed using SysML and UML, allowing for clear representation and understanding of component interactions. We also employed GPU computation to handle logical matrices for optimized performance and quick decision-making in real time. For scheduling and task management, I worked on implementing the Rate Monotonic Scheduling (RMS) algorithm, ensuring that tasks were prioritized based on their frequency. Additionally, I contributed to the verification and validation of the system, with an initial focus on testing the serialization and deserialization of message objects.
+
+We simulated the system using Tinkercad, which allowed us to observe and refine the platoon’s behavior in dynamic traffic scenarios. The system was developed in C++, ensuring computational efficiency to meet the real-time processing requirements. The results showed the system’s ability to adapt to the environment in real time and maintain platoon stability, making it a viable solution for autonomous fleet management.
 
 Here is some code that illustrates how we read values from the line sensors:
 
