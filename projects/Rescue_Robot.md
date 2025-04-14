@@ -15,6 +15,7 @@ summary: "A rescue robot designed to operate on land and water, featuring a buoy
 ---
 
 
+
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 Project X was a group project focused on the design and development of an amphibious rescue robot capable of assisting in real-world emergency situations, such as burning buildings and water rescues.
