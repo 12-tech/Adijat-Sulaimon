@@ -17,7 +17,7 @@ summary: "My team developed a truck platoon system for autonomous vehicle coordi
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="..img/Truck_Platoon/Screenshot 2025-02-04 at 23.45.15.png" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
